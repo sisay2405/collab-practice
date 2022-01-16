@@ -1,12 +1,18 @@
-body{
+/* body{
     background: rgb(219, 235, 219)
-}
-.nav{
+} */
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+  }
+/* .nav{
     background:rgb(0, 255, 157);
     height: 60px;
     margin-top: 50px;
     margin-bottom: 20px;
-}
+} */
 h1{
     text-align: center;
 }
