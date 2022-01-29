@@ -9,6 +9,7 @@
     /* text-align: center */
 }
 .nav{
+/* background-color:#4A2C2A; */
 background-color:#4A2C2A;
 color: white;
 height:70px;
@@ -21,6 +22,10 @@ footer{
 p::first-letter {
     font-size: 200%;
     color: #4A2C2A;
+  }
+
+  .Kaldi{
+     background-color: #9e6e4d; 
   }
 /* .clearStatement{
     background-color: whitesmoke;
