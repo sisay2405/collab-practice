@@ -1,19 +1,112 @@
-/* body{
-    background: rgb(219, 235, 219)
+*{
+    padding:0;
+    margin:0
+}
+
+.jambotron{
+    background-color: whitesmoke;
+    height: 100px;
+    /* text-align: center */
+}
+.nav{
+background-color:#4A2C2A;
+color: white;
+height:70px;
+}
+footer{
+    background-color:#4A2C2A;
+    /* color: white;   */
+    height:70px;
+}
+p::first-letter {
+    font-size: 200%;
+    color: #4A2C2A;
+  }
+/* .clearStatement{
+    background-color: whitesmoke;
+    height: 250px;
+    text-align: center
 } */
-.jumbotron {
+/* .TheSpeakers{
+    text-align: center
+} */
+/* .getTicket{
+    text-align: center
+}
+.moqups1{
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+} */
+/* .moqups2{
+    font-size: 20px;
+}
+.carts{
+    text-align: left;
+}
+.Venue{
+height: 400px;
+} */
+/* .speakerPage{
+    padding:20px;
+}   */
+/* .gg{
+    background-image: url(../IMG/noPhoto.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: inherit;
+
+
+} */
+/* .gg { */
+    /* text-align: center; */
+    /* background-image: url("../IMG/noPhoto.png"); */
+    /* background-repeat: no-repeat;
+background-size: 100%;
+height: 200px;
+position: absolute;
+width: 100%;
+background-position: center; */
+
+/* } */
+/* footer{
+    height: 55px;
+}
+.hstack{
+    padding-top: 20px;
+} */
+
+/* @media screen and (min-width: 480px) {
+ 
+    .speakerPage{
+        margin: 0 50px ;    
+      }
+  }
+  @media screen and (min-width: 768px) {
+ 
+    .speakerPage{
+        margin: 0 250px ; 
+      }
+  }
+  @media screen and (min-width: 1024px) {
+  
+    .speakerPage{
+        margin: 0 450px ; 
+
+      }
+  /* }  */
+/* .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
     background-color: #e9ecef;
     border-radius: .3rem;
-  }
+  }  */
 /* .nav{
     background:rgb(0, 255, 157);
     height: 60px;
     margin-top: 50px;
     margin-bottom: 20px;
 } */
-h1{
+/* h1{
     text-align: center;
 }
 
@@ -32,4 +125,4 @@ h1{
     height: 60px;
     margin-top: 50px;
     margin-bottom: 20px;
-}
+} */
