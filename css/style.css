@@ -35,6 +35,26 @@ p::first-letter {
       padding-top: 15px;
      
   }
+  .fa-instagram{
+    font-family:"FontAwesome";
+    content: "\f16d";
+    color: #3F729B;
+    font-size: 15px;
+
+}
+.fa-facebook-square{
+    font-family:"FontAwesome";
+    content: "\f082";
+    color: #4267B2;
+    font-size: 15px;
+    
+}
+.fa-twitter{
+    font-family:"FontAwesome";
+    content: "\f099";
+    color: #00ACEE;
+    font-size: 15px;
+}
 /* .clearStatement{
     background-color: whitesmoke;
     height: 250px;
