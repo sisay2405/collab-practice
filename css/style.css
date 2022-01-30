@@ -26,12 +26,47 @@ footer{
 }
 p::first-letter {
     font-size: 200%;
-    color: #4A2C2A;
+    color: #5e264b;
   }
+<<<<<<< HEAD
 
   .Kaldi{
      background-color: #9e6e4d; 
   }
+=======
+  .TheVenue {
+    color:#e66611
+
+  }
+  .color{
+      color: #5e264b;
+       
+  }
+  .hstack{
+      padding-top: 15px;
+     
+  }
+  .fa-instagram{
+    font-family:"FontAwesome";
+    content: "\f16d";
+    color: #3F729B;
+    font-size: 15px;
+
+}
+.fa-facebook-square{
+    font-family:"FontAwesome";
+    content: "\f082";
+    color: #4267B2;
+    font-size: 15px;
+    
+}
+.fa-twitter{
+    font-family:"FontAwesome";
+    content: "\f099";
+    color: #00ACEE;
+    font-size: 15px;
+}
+>>>>>>> 5e9cda418b29ff79595b9f5f2316ace02a79219a
 /* .clearStatement{
     background-color: whitesmoke;
     height: 250px;
