@@ -23,8 +23,17 @@ p::first-letter {
     font-size: 200%;
     color: #5e264b;
   }
-  .TheVenue{
+  .TheVenue {
     color:#e66611
+
+  }
+  .color{
+      color: #5e264b;
+       
+  }
+  .hstack{
+      padding-top: 15px;
+     
   }
 /* .clearStatement{
     background-color: whitesmoke;
