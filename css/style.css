@@ -21,7 +21,10 @@ footer{
 }
 p::first-letter {
     font-size: 200%;
-    color: #4A2C2A;
+    color: #5e264b;
+  }
+  .TheVenue{
+    color:#e66611
   }
 /* .clearStatement{
     background-color: whitesmoke;
